@@ -1,0 +1,11 @@
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/bin/Debug/net8.0/MextFullStack.Domain.deps.json
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/bin/Debug/net8.0/MextFullStack.Domain.dll
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/bin/Debug/net8.0/MextFullStack.Domain.pdb
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/MextFullStack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/MextFullStack.Domain.AssemblyInfoInputs.cache
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/MextFullStack.Domain.AssemblyInfo.cs
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/MextFullStack.Domain.csproj.CoreCompileInputs.cache
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/MextFullStack.Domain.dll
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/refint/MextFullStack.Domain.dll
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/MextFullStack.Domain.pdb
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/ref/MextFullStack.Domain.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MextFullStack.ConsoleClient/1.0.0": {
+        "dependencies": {
+          "MextFullStack.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MextFullStack.ConsoleClient.dll": {}
+        }
+      },
+      "MextFullStack.Domain/1.0.0": {
+        "runtime": {
+          "MextFullStack.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MextFullStack.ConsoleClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MextFullStack.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

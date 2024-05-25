@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1E562AD9-3071-4AEB-B0A1-40701392911E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MextFullStack.Domain", "src\MextFullStack.Domain\MextFullStack.Domain.csproj", "{7BC7699F-8ACD-4534-9451-7A20FD591C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MextFullStack.ConsoleClient", "src\MextFullStack.ConsoleClient\MextFullStack.ConsoleClient.csproj", "{589C5BED-8EE9-47D8-9795-297639C8F496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC7699F-8ACD-4534-9451-7A20FD591C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC7699F-8ACD-4534-9451-7A20FD591C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC7699F-8ACD-4534-9451-7A20FD591C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC7699F-8ACD-4534-9451-7A20FD591C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589C5BED-8EE9-47D8-9795-297639C8F496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589C5BED-8EE9-47D8-9795-297639C8F496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589C5BED-8EE9-47D8-9795-297639C8F496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589C5BED-8EE9-47D8-9795-297639C8F496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7BC7699F-8ACD-4534-9451-7A20FD591C42} = {1E562AD9-3071-4AEB-B0A1-40701392911E}
+		{589C5BED-8EE9-47D8-9795-297639C8F496} = {1E562AD9-3071-4AEB-B0A1-40701392911E}
+	EndGlobalSection
+EndGlobal
