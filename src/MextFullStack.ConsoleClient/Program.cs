@@ -1,22 +1,27 @@
-﻿// See https://aka.ms/new-console-template for more information
-using MextFullStack.Domain;
+﻿using MextFullStack.Domain;
 using MextFullStack.Domain.Entities;
+using MextFullStack.Domain.Enums;
 
-Console.WriteLine("Hello, World!");
+var filePath = "/Users/fatos/Downloads/AccessControlLogs.txt";
 
+var accesControlLogsText = File.ReadAllText(filePath);
 
-var customer = new Customer();
-var franciseRep = new FranchiseRepresented();
-customer.Id= "1234";
-franciseRep.Id= 1;
-var francihise = new Franchise();
-francihise.Id= Guid.NewGuid();
+var accesControlLogLines = accesControlLogsText.Split("\n",StringSplitOptions.RemoveEmptyEntries);
 
-Console.WriteLine(customer.Id.ToString());
+List<AccessControlLog> accessControlLogs = new();
 
+foreach(var logLine in accesControlLogLines){
+    var accesControlLogData = logLine.Split("---",StringSplitOptions.RemoveEmptyEntries);
+    var accesControlLog = new AccessControlLog(){
+        Id =Guid.NewGuid(),
+        UserId = int.Parse(accesControlLogData[0]),
+        DeviceSerialNumber = accesControlLogData[1],
+        AccessType = (AccessType)int.Parse(accesControlLogData[2]),
+        Date = DateTime.Parse(accesControlLogData[3]),
+        CreatedOn = DateTime.Now
 
+    };
 
-Console.WriteLine(customer.CreatedOn.ToLongDateString());
-Console.WriteLine(customer.Id.ToString());
+    accessControlLogs.Add(accesControlLog);
 
-Console.ReadLine();
+}

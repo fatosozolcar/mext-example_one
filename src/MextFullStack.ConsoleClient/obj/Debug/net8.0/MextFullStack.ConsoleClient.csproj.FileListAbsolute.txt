@@ -16,3 +16,4 @@
 /Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.ConsoleClient/obj/Debug/net8.0/MextFullStack.ConsoleClient.pdb
 /Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.ConsoleClient/obj/Debug/net8.0/MextFullStack.ConsoleClient.genruntimeconfig.cache
 /Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.ConsoleClient/obj/Debug/net8.0/ref/MextFullStack.ConsoleClient.dll
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.ConsoleClient/obj/Debug/net8.0/MextFullStack.ConsoleClient.sourcelink.json

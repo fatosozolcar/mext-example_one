@@ -9,3 +9,4 @@
 /Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/refint/MextFullStack.Domain.dll
 /Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/MextFullStack.Domain.pdb
 /Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/ref/MextFullStack.Domain.dll
+/Users/fatos/Desktop/Mext/MextFullStack/src/MextFullStack.Domain/obj/Debug/net8.0/MextFullStack.Domain.sourcelink.json
