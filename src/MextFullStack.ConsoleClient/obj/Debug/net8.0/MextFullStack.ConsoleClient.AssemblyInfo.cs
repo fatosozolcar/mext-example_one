@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MextFullStack.ConsoleClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c519cfc0860e36ce7cce9273bf94ac5bd9e7a70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94aa2561ab0f0c61b3ed1c56688ec1ba0505226d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MextFullStack.ConsoleClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MextFullStack.ConsoleClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
