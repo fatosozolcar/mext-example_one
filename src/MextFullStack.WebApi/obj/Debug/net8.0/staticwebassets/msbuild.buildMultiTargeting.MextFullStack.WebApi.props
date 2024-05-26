@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MextFullStack.WebApi.props" />
+</Project>

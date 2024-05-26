@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MextFullStack.Domain", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MextFullStack.ConsoleClient", "src\MextFullStack.ConsoleClient\MextFullStack.ConsoleClient.csproj", "{589C5BED-8EE9-47D8-9795-297639C8F496}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MextFullStack.WebApi", "src\MextFullStack.WebApi\MextFullStack.WebApi.csproj", "{963ABBDE-DBDB-4DB2-96B3-2503677C1CC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{589C5BED-8EE9-47D8-9795-297639C8F496}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{589C5BED-8EE9-47D8-9795-297639C8F496}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{589C5BED-8EE9-47D8-9795-297639C8F496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963ABBDE-DBDB-4DB2-96B3-2503677C1CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963ABBDE-DBDB-4DB2-96B3-2503677C1CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963ABBDE-DBDB-4DB2-96B3-2503677C1CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963ABBDE-DBDB-4DB2-96B3-2503677C1CC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +36,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7BC7699F-8ACD-4534-9451-7A20FD591C42} = {1E562AD9-3071-4AEB-B0A1-40701392911E}
 		{589C5BED-8EE9-47D8-9795-297639C8F496} = {1E562AD9-3071-4AEB-B0A1-40701392911E}
+		{963ABBDE-DBDB-4DB2-96B3-2503677C1CC5} = {1E562AD9-3071-4AEB-B0A1-40701392911E}
 	EndGlobalSection
 EndGlobal

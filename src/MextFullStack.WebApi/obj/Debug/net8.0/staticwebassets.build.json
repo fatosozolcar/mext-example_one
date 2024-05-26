@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UCqbvnsO1V2yvSXaz+NHq4Gvt2SSDaWOKVBbG+anVX8=",
+  "Source": "MextFullStack.WebApi",
+  "BasePath": "_content/MextFullStack.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
